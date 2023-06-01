@@ -1,0 +1,51 @@
+
+
+@font-face {
+	font-family: 'proxima_nova_rgregular';
+	src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.eot');
+  }
+
+
+
+.log{
+    background-color: blue;
+}
+
+.container-one{
+    margin: auto;
+    margin-left: 80px;
+}
+.container-two{
+    margin: auto;
+}
+
+.container-one-heading{
+font-family: proxima-nova, sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 60px;
+color: #2A2A84;
+}
+
+.container-one-heading-span{
+    color: #ED037C;
+}
+
+.container-one-heading-para{
+font-family: proxima-nova, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* or 125% */
+
+
+/* Theme Black */
+
+color: #333333;
+}
+
+.container-one-heading-para{
+    margin-top: 50px;
+}
