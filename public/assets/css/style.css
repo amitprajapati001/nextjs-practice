@@ -49,3 +49,27 @@ color: #333333;
 .container-one-heading-para{
     margin-top: 50px;
 }
+
+.dashboard{
+    height: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+  
+ .first {
+    /* position: fixed; */
+    background-color: burlywood;
+    padding: 1rem;
+  }
+  
+.second {
+  
+    background-color: darkcyan;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+}
